@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 7ca371865574465458603fd04797abc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7425785103396728312
+    second: flor1
+  - first:
+      213: 365688384380431731
+    second: flor2
+  - first:
+      213: 4694044096453293936
+    second: flor3
+  - first:
+      213: -588338335524477933
+    second: florpice4
+  - first:
+      213: -421800337965282772
+    second: BackgroundWoll
+  - first:
+      213: -8235953707097208354
+    second: florpice2
+  - first:
+      213: 5502780428378370403
+    second: spikMini1
+  - first:
+      213: 5945221839117047900
+    second: spikMini2
+  - first:
+      213: -8045901827011246900
+    second: spikMini3
+  - first:
+      213: 5688872851430907723
+    second: spikMini4
+  - first:
+      213: 3727600709233133353
+    second: spikMini5
+  - first:
+      213: 6092893538474322469
+    second: spikMini6
+  - first:
+      213: 1659176588693358070
+    second: florpice1
+  - first:
+      213: -3748923408061811714
+    second: flor4
+  - first:
+      213: -1556953036582959070
+    second: flor5
+  - first:
+      213: -904018037381477979
+    second: flor6
+  - first:
+      213: 4179390673521743807
+    second: flor7
+  - first:
+      213: 1882237671458393475
+    second: spike1
+  - first:
+      213: -3910600338337831157
+    second: spike2
+  - first:
+      213: 5610546900114243282
+    second: spike3
+  - first:
+      213: -8877368512780173530
+    second: spike4
+  - first:
+      213: -6229979654292209588
+    second: spike5
+  - first:
+      213: -5117363194504190293
+    second: spike6
+  - first:
+      213: 1518108992263862608
+    second: plant_lian2
+  - first:
+      213: 2558796500380565505
+    second: BackgroundWoll_24
+  - first:
+      213: 3680020230318728751
+    second: plant_lian1
+  - first:
+      213: 1062966912116648717
+    second: chain
+  - first:
+      213: 5445314038511630620
+    second: guns
+  - first:
+      213: -7424045554227818609
+    second: wind
+  - first:
+      213: -7872991603474457095
+    second: stoneKnight1
+  - first:
+      213: 2620354607363037205
+    second: BackgroundWoll_30
+  - first:
+      213: 5714065187883490192
+    second: brokenwind
+  - first:
+      213: -6486797040208106104
+    second: BackgroundWoll_32
+  - first:
+      213: -817352853085599874
+    second: BackgroundWoll_33
+  - first:
+      213: -7102300310243299109
+    second: BackgroundWoll_34
+  - first:
+      213: -3474077905970152732
+    second: BackgroundWoll_35
+  - first:
+      213: 6828201967254015548
+    second: BackgroundWoll_36
+  - first:
+      213: -3389146932321899942
+    second: stoneKnight2
+  - first:
+      213: 5177536402717874134
+    second: box
+  - first:
+      213: 5445841563637263947
+    second: gate
+  - first:
+      213: 7936991184381113019
+    second: brokenGate
+  - first:
+      213: 5002760434442898270
+    second: BackgroundWoll_41
+  - first:
+      213: -3943457315901185882
+    second: BackgroundWoll_42
+  - first:
+      213: -4826855804115223966
+    second: BackgroundWoll_43
+  - first:
+      213: -1642650237673628564
+    second: BackgroundWoll_44
+  - first:
+      213: -7447516212021790379
+    second: BackgroundWoll_45
+  - first:
+      213: 1443548908929621324
+    second: BackgroundWoll_46
+  - first:
+      213: 235100776311195993
+    second: BackgroundWoll_47
+  - first:
+      213: -1447384175971870865
+    second: BackgroundWoll_48
+  - first:
+      213: -2870917815848390917
+    second: BackgroundWoll_49
+  - first:
+      213: -3157188566025708002
+    second: BackgroundWoll_50
+  - first:
+      213: -2932737498653504212
+    second: BackgroundWoll_51
+  - first:
+      213: 4103755227504714850
+    second: BackgroundWoll_52
+  - first:
+      213: 5893539799764952112
+    second: BackgroundWoll_53
+  - first:
+      213: -5227633286166353162
+    second: BackgroundWoll_54
+  - first:
+      213: -7716626345409058123
+    second: plant1
+  - first:
+      213: 6440431739454836951
+    second: plant2
+  - first:
+      213: -3245480211946310988
+    second: plant3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flor1
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1780
+        width: 180
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80296adbacf42f890800000000000000
+      internalID: -7425785103396728312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor2
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1778
+        width: 513
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6b79e5af231500800000000000000
+      internalID: 365688384380431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor3
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1778
+        width: 183
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773e115c38942140800000000000000
+      internalID: 4694044096453293936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: florpice4
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1938
+        width: 473
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314a157a66dc5d7f0800000000000000
+      internalID: -588338335524477933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1491
+        height: 1862
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a8071d3d6752af0800000000000000
+      internalID: -421800337965282772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: florpice2
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1858
+        width: 133
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c8e54db304bd80800000000000000
+      internalID: -8235953707097208354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikMini1
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1818
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f67605adcd5c40800000000000000
+      internalID: 5502780428378370403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikMini2
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 1818
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58577773cba18250800000000000000
+      internalID: 5945221839117047900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikMini3
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 1818
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc40457dae6375090800000000000000
+      internalID: -8045901827011246900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikMini4
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1838
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f17e9a7bfe2fe40800000000000000
+      internalID: 5688872851430907723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikMini5
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1828
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927c55a68191bb330800000000000000
+      internalID: 3727600709233133353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spikMini6
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1819
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae807446e4e8450800000000000000
+      internalID: 6092893538474322469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: florpice1
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1778
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f546b41154960710800000000000000
+      internalID: 1659176588693358070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor4
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1509
+        width: 183
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef33454e50629fbc0800000000000000
+      internalID: -3748923408061811714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor5
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1509
+        width: 234
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c18a5677946ae0800000000000000
+      internalID: -1556953036582959070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor6
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1509
+        width: 233
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c45b72684473f0800000000000000
+      internalID: -904018037381477979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flor7
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1509
+        width: 183
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb718d89cad200a30800000000000000
+      internalID: 4179390673521743807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike1
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 1539
+        width: 53
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc22e803d0f1a10800000000000000
+      internalID: 1882237671458393475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike2
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1539
+        width: 53
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e9d626b1cab9c0800000000000000
+      internalID: -3910600338337831157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike3
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1539
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7af00eaaacdd40800000000000000
+      internalID: 5610546900114243282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike4
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 1539
+        width: 53
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fff773f504dc480800000000000000
+      internalID: -8877368512780173530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike5
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1539
+        width: 54
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408004238aaa89a0800000000000000
+      internalID: -6229979654292209588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spike6
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 1539
+        width: 54
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba66bec99497bf8b0800000000000000
+      internalID: -5117363194504190293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_lian2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 977
+        width: 322
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b63ec518611510800000000000000
+      internalID: 1518108992263862608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant_lian1
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1198
+        width: 94
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262662e6ee021330800000000000000
+      internalID: 3680020230318728751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chain
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1308
+        width: 34
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be4b456ca60ce00800000000000000
+      internalID: 1062966912116648717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1188
+        width: 484
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19feeb7444a19b40800000000000000
+      internalID: 5445314038511630620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1148
+        width: 301
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fcee717ed78f890800000000000000
+      internalID: -7424045554227818609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneKnight1
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 709
+        width: 323
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd954b79d38db290800000000000000
+      internalID: -7872991603474457095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_30
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1028
+        width: 284
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5189e65d1ae5d5420800000000000000
+      internalID: 2620354607363037205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokenwind
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 788
+        width: 302
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b983393007c4f40800000000000000
+      internalID: 5714065187883490192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_32
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 719
+        width: 73
+        height: 211
+      alignment: 9
+      pivot: {x: 0.55415744, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d2750e5744af5a0800000000000000
+      internalID: -6486797040208106104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_33
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 729
+        width: 78
+        height: 201
+      alignment: 9
+      pivot: {x: 0.6477739, y: 0.99958366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e774eaf19ed28a4f0800000000000000
+      internalID: -817352853085599874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_34
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 739
+        width: 84
+        height: 191
+      alignment: 9
+      pivot: {x: 0.7333027, y: 1.0000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd03dc75f7f8f6d90800000000000000
+      internalID: -7102300310243299109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_35
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 739
+        width: 85
+        height: 191
+      alignment: 9
+      pivot: {x: 0.7374411, y: 0.99847734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabd9c0d8899cfc0800000000000000
+      internalID: -3474077905970152732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_36
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 719
+        width: 79
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5995773, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8cc80385a2ce50800000000000000
+      internalID: 6828201967254015548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneKnight2
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 709
+        width: 163
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a295f42d457f0d0800000000000000
+      internalID: -3389146932321899942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 579
+        width: 163
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d717af2ded4ad740800000000000000
+      internalID: 5177536402717874134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gate
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 8
+        width: 454
+        height: 684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e28af7c04839b40800000000000000
+      internalID: 5445841563637263947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokenGate
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 8
+        width: 453
+        height: 684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb271722e6bd52e60800000000000000
+      internalID: 7936991184381113019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_41
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 448
+        width: 33
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b095ffb106d6540800000000000000
+      internalID: 5002760434442898270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_48
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 448
+        width: 33
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67dca1b2cbd9ebe0800000000000000
+      internalID: -1447384175971870865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_49
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 448
+        width: 33
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe240f05737828d0800000000000000
+      internalID: -2870917815848390917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_50
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 448
+        width: 33
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1edc190ab96f24d0800000000000000
+      internalID: -3157188566025708002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_51
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 448
+        width: 33
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d4a4588c2dc47d0800000000000000
+      internalID: -2932737498653504212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_52
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 448
+        width: 34
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264229403a773f830800000000000000
+      internalID: 4103755227504714850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_53
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 448
+        width: 34
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ed9af83f0ac150800000000000000
+      internalID: 5893539799764952112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackgroundWoll_54
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 448
+        width: 34
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faeb023937b377b0800000000000000
+      internalID: -5227633286166353162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant1
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 328
+        width: 373
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bae879293909e490800000000000000
+      internalID: -7716626345409058123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant2
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 178
+        width: 313
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05b5e4b82016950800000000000000
+      internalID: 6440431739454836951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant3
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 0
+        width: 353
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2716941fcb5f2d0800000000000000
+      internalID: -3245480211946310988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BackgroundWoll: -421800337965282772
+      BackgroundWoll_30: 2620354607363037205
+      BackgroundWoll_32: -6486797040208106104
+      BackgroundWoll_33: -817352853085599874
+      BackgroundWoll_34: -7102300310243299109
+      BackgroundWoll_35: -3474077905970152732
+      BackgroundWoll_36: 6828201967254015548
+      BackgroundWoll_41: 5002760434442898270
+      BackgroundWoll_48: -1447384175971870865
+      BackgroundWoll_49: -2870917815848390917
+      BackgroundWoll_50: -3157188566025708002
+      BackgroundWoll_51: -2932737498653504212
+      BackgroundWoll_52: 4103755227504714850
+      BackgroundWoll_53: 5893539799764952112
+      BackgroundWoll_54: -5227633286166353162
+      box: 5177536402717874134
+      brokenGate: 7936991184381113019
+      brokenwind: 5714065187883490192
+      chain: 1062966912116648717
+      flor1: -7425785103396728312
+      flor2: 365688384380431731
+      flor3: 4694044096453293936
+      flor4: -3748923408061811714
+      flor5: -1556953036582959070
+      flor6: -904018037381477979
+      flor7: 4179390673521743807
+      florpice1: 1659176588693358070
+      florpice2: -8235953707097208354
+      florpice4: -588338335524477933
+      gate: 5445841563637263947
+      guns: 5445314038511630620
+      plant1: -7716626345409058123
+      plant2: 6440431739454836951
+      plant3: -3245480211946310988
+      plant_lian1: 3680020230318728751
+      plant_lian2: 1518108992263862608
+      spikMini1: 5502780428378370403
+      spikMini2: 5945221839117047900
+      spikMini3: -8045901827011246900
+      spikMini4: 5688872851430907723
+      spikMini5: 3727600709233133353
+      spikMini6: 6092893538474322469
+      spike1: 1882237671458393475
+      spike2: -3910600338337831157
+      spike3: 5610546900114243282
+      spike4: -8877368512780173530
+      spike5: -6229979654292209588
+      spike6: -5117363194504190293
+      stoneKnight1: -7872991603474457095
+      stoneKnight2: -3389146932321899942
+      wind: -7424045554227818609
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

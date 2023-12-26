@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 4d02fc636dd11214ca5e5b4cbdea8c8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2606127332262645060
+    second: BonusAndEffects_Smert1
+  - first:
+      213: 4292421059189436699
+    second: BonusAndEffects_Smert2
+  - first:
+      213: 375074404675243684
+    second: BonusAndEffects_Smert3
+  - first:
+      213: 3663548810038147451
+    second: BonusAndEffects_Smert4
+  - first:
+      213: 92576948847866802
+    second: BonusAndEffects_Smert5
+  - first:
+      213: 8242416385507164719
+    second: BonusAndEffects_Smert6
+  - first:
+      213: -7316602653672350678
+    second: BonusAndEffects_gun1
+  - first:
+      213: 1244431489516717858
+    second: BonusAndEffects_gun2
+  - first:
+      213: -8794527224584955927
+    second: BonusAndEffects_gun3
+  - first:
+      213: -3699346108579236645
+    second: BonusAndEffects_gun4
+  - first:
+      213: -2658870336467782030
+    second: BonusAndEffects_gun5
+  - first:
+      213: -7557346359164944482
+    second: BonusAndEffects_gun6
+  - first:
+      213: -3773311265322669004
+    second: BonusAndEffects_gun7
+  - first:
+      213: 6808094950935895875
+    second: BonusAndEffects_gun8
+  - first:
+      213: -1746256706138037100
+    second: BonusAndEffects_gun9
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BonusAndEffects_Coin1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 730
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23d19e9abf59a30800000000000000
+      internalID: -7017409122308393270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Coin2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 730
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0c516e7020d390800000000000000
+      internalID: -731359036060990879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Coin3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 730
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a652ffb82b36a20800000000000000
+      internalID: 2808913601590505474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Coin4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 730
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc072bf7b43cc37e0800000000000000
+      internalID: -7597656317862604394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Coin5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 730
+        width: 20
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c998962e5967850800000000000000
+      internalID: -2339238734568981031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Coin6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 760
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc06437fe3f9760800000000000000
+      internalID: -3216441098337558028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_CoinPic1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 750
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588b5691a9728a570800000000000000
+      internalID: 5405148663239187625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_CoinPic2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 740
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113d4e1674ec66d0800000000000000
+      internalID: 7594422082629057110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_CoinPic3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 730
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12cb21383b5d9920800000000000000
+      internalID: -2386082172721766469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_CoinPic4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 730
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355dee6058a7cacf0800000000000000
+      internalID: 8189880895885362935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_CoinPic5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 740
+        width: 60
+        height: 50
+      alignment: 9
+      pivot: {x: 0.69482017, y: 0.70038575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6df7769d39f470800000000000000
+      internalID: -3812309845831671451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_CoinPic6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 770
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1058601235bd2cbc0800000000000000
+      internalID: -4110702185542783042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 470
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7e18e1aa10bca00800000000000000
+      internalID: 5771663246157712315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf3c2852f662c00800000000000000
+      internalID: 5947659842168789062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 470
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289e1a0e942fe090800000000000000
+      internalID: -2851804049630761699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 470
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2f2442360389ff0800000000000000
+      internalID: -7225012731363980304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 470
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8c1ae7893e1800800000000000000
+      internalID: -4684400848727831399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 470
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff8e4df0757b9080800000000000000
+      internalID: 5467575647145263272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 470
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b585a8d19d2d1960800000000000000
+      internalID: 2934217386659034297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 470
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d5b84111fa6ca0800000000000000
+      internalID: 8613617065369577858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 470
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee03cda3c3a3f070800000000000000
+      internalID: 5440031992394110615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit10
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 470
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca76f95dffbeeb0800000000000000
+      internalID: -4199501929816979844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 470
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296858db2589dcd40800000000000000
+      internalID: -8084056800012016853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 390
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d51640131130b20800000000000000
+      internalID: 1428127126871138763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 390
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b465fcc32fe510800000000000000
+      internalID: 7639453775736050094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 390
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a599195e053e2da30800000000000000
+      internalID: -2871596990071815152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 390
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6ee953e9f10180800000000000000
+      internalID: -3180024415450389933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 390
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61422e668c7edf50800000000000000
+      internalID: 4239879721814421738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 390
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c060ce43b34960800000000000000
+      internalID: -1722557205384369887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 390
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac829aff50e14b80800000000000000
+      internalID: -1757435072397200094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 390
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cd7199625cc1460800000000000000
+      internalID: -263729759038492562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_magnit20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 390
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b94f9fa3e71f640800000000000000
+      internalID: -7696186000592448781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_heal1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 30
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb346d3a9fcb79ee0800000000000000
+      internalID: 3979709976368213009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_heal2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 30
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390f32dfc3dd4740800000000000000
+      internalID: 6925409474630030462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Smert1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d83f63003da2420800000000000000
+      internalID: 2606127332262645060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Smert2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 590
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11746b063eb19b30800000000000000
+      internalID: 4292421059189436699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Smert3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 580
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae420f0f28843500800000000000000
+      internalID: 375074404675243684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Smert4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 580
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79f0af7b3a87d230800000000000000
+      internalID: 3663548810038147451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Smert5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 580
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b377769e36e84100800000000000000
+      internalID: 92576948847866802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_Smert6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 580
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22830d4802f26270800000000000000
+      internalID: 8242416385507164719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cdd29c6a4367a90800000000000000
+      internalID: -7316602653672350678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22744ffa8db154110800000000000000
+      internalID: 1244431489516717858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 211
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e79c1ba51093f580800000000000000
+      internalID: -8794527224584955927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 211
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd439e0705849acc0800000000000000
+      internalID: -3699346108579236645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 210
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b30b248bc91bd0800000000000000
+      internalID: -2658870336467782030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 210
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb161e689ee1790800000000000000
+      internalID: -7557346359164944482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6673656182abc0800000000000000
+      internalID: -3773311265322669004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1aab79463b7e50800000000000000
+      internalID: 6808094950935895875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusAndEffects_gun9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 40
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494afff17cc04c7e0800000000000000
+      internalID: -1746256706138037100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BonusAndEffects_Coin1: -7017409122308393270
+      BonusAndEffects_Coin2: -731359036060990879
+      BonusAndEffects_Coin3: 2808913601590505474
+      BonusAndEffects_Coin4: -7597656317862604394
+      BonusAndEffects_Coin5: -2339238734568981031
+      BonusAndEffects_Coin6: -3216441098337558028
+      BonusAndEffects_CoinPic1: 5405148663239187625
+      BonusAndEffects_CoinPic2: 7594422082629057110
+      BonusAndEffects_CoinPic3: -2386082172721766469
+      BonusAndEffects_CoinPic4: 8189880895885362935
+      BonusAndEffects_CoinPic5: -3812309845831671451
+      BonusAndEffects_CoinPic6: -4110702185542783042
+      BonusAndEffects_Smert1: 2606127332262645060
+      BonusAndEffects_Smert2: 4292421059189436699
+      BonusAndEffects_Smert3: 375074404675243684
+      BonusAndEffects_Smert4: 3663548810038147451
+      BonusAndEffects_Smert5: 92576948847866802
+      BonusAndEffects_Smert6: 8242416385507164719
+      BonusAndEffects_gun1: -7316602653672350678
+      BonusAndEffects_gun2: 1244431489516717858
+      BonusAndEffects_gun3: -8794527224584955927
+      BonusAndEffects_gun4: -3699346108579236645
+      BonusAndEffects_gun5: -2658870336467782030
+      BonusAndEffects_gun6: -7557346359164944482
+      BonusAndEffects_gun7: -3773311265322669004
+      BonusAndEffects_gun8: 6808094950935895875
+      BonusAndEffects_gun9: -1746256706138037100
+      BonusAndEffects_heal1: 3979709976368213009
+      BonusAndEffects_heal2: 6925409474630030462
+      BonusAndEffects_magnit1: 5771663246157712315
+      BonusAndEffects_magnit10: -4199501929816979844
+      BonusAndEffects_magnit11: -8084056800012016853
+      BonusAndEffects_magnit12: 1428127126871138763
+      BonusAndEffects_magnit13: 7639453775736050094
+      BonusAndEffects_magnit14: -2871596990071815152
+      BonusAndEffects_magnit15: -3180024415450389933
+      BonusAndEffects_magnit16: 4239879721814421738
+      BonusAndEffects_magnit17: -1722557205384369887
+      BonusAndEffects_magnit18: -1757435072397200094
+      BonusAndEffects_magnit19: -263729759038492562
+      BonusAndEffects_magnit2: 5947659842168789062
+      BonusAndEffects_magnit20: -7696186000592448781
+      BonusAndEffects_magnit3: -2851804049630761699
+      BonusAndEffects_magnit4: -7225012731363980304
+      BonusAndEffects_magnit5: -4684400848727831399
+      BonusAndEffects_magnit6: 5467575647145263272
+      BonusAndEffects_magnit7: 2934217386659034297
+      BonusAndEffects_magnit8: 8613617065369577858
+      BonusAndEffects_magnit9: 5440031992394110615
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
